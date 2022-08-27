@@ -4,4 +4,5 @@ age = 37
 age2 = 35
 height = 5.75
 height2 = 6.3
-
+hot = true
+married = true
